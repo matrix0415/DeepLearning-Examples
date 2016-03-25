@@ -1,3 +1,7 @@
+# Romeu, P., Zamora-Martínez, F., Botella-Rocamora, P., & Pardo, J. (2015).
+# Stacked Denoising Auto-Encoders for Short-Term Time Series Forecasting.
+# In Artificial Neural Networks (pp. 463-486). Springer International Publishing.
+
 from pandas import DataFrame as df
 import numpy as np
 from keras.models import Sequential
